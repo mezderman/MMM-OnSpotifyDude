@@ -4,7 +4,7 @@
 Welcome, friend. You’ve stumbled upon the MMM-OnSpotifyDude module, an easy-going companion to the [MMM-OnSpotify](https://github.com/Fabrizz/MMM-OnSpotify) module . Think of it as the Dude’s way of grooving along with your Spotify tunes, providing some laid-back commentary on the currently playing song. It’s like having The Dude himself lounging in your MagicMirror² setup, casually sharing his thoughts on your music.
 
 ## Screenshot
-![Description of GIF](https://github.com/mezderman/MMM-ModulesGroupsRotation/blob/main/assets/screenshot.gif?raw=true)
+(https://github.com/mezderman/MMM-OnSpotifyDude/blob/main/screenshots/screenshot.jpg)
 
 ## Table of Contents
 - [Installation](#installation)
