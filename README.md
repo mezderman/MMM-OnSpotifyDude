@@ -20,7 +20,7 @@ First, make sure you have the MMM-OnSpotify module installed and configured. You
 
 Then, follow these steps to install MMM-OnSpotifyDude:
 
-	1.	Navigate to your MagicMirror modules directory:
+Navigate to your MagicMirror modules directory:
 
 ```bash
 cd ~/MagicMirror/modules
