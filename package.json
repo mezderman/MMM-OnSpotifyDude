@@ -1,0 +1,18 @@
+{
+	"name": "package.json",
+	"version": "1.0.0",
+	"description": "",
+	"main": "MMM-OnSpotifyDude.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"author": {
+		"name": "Mo Ezderman",
+		"email": "ezderman@gmail.com",
+		"url": "https://github.com/mezderman"
+	},
+	"license": "MIT",
+	"dependencies": {
+		"openai": "^4.47.1"
+	}
+}
