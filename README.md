@@ -1,5 +1,5 @@
 
-# MMM-ModulesGroupsRotation
+# MMM-OnSpotifyDude
 
 Welcome, friend. You’ve stumbled upon the MMM-OnSpotifyDude module, an easy-going companion to the [MMM-OnSpotify](https://github.com/Fabrizz/MMM-OnSpotify) module . Think of it as the Dude’s way of grooving along with your Spotify tunes, providing some laid-back commentary on the currently playing song. It’s like having The Dude himself lounging in your MagicMirror² setup, casually sharing his thoughts on your music.
 
@@ -16,7 +16,7 @@ Welcome, friend. You’ve stumbled upon the MMM-OnSpotifyDude module, an easy-go
 
 ## Installation
 
-First, make sure you have the MMM-OnSpotify module installed and configured. You can find it here: [MMM-OnSpotify]((https://github.com/Fabrizz/MMM-OnSpotify).
+First, make sure you have the MMM-OnSpotify module installed and configured. You can find it here: [MMM-OnSpotify](https://github.com/Fabrizz/MMM-OnSpotify).
 
 Then, follow these steps to install MMM-OnSpotifyDude:
 
